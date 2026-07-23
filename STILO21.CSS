@@ -1,0 +1,11 @@
+.titulo{
+  border: 4px dashed #00becc;
+  padding: 10px;
+  text-align: center;
+}
+
+.descripcion{
+  border-top: 2px solid #aa0000;
+  border-bottom: 2px solid #aa009c;
+  padding: 8px;
+}
